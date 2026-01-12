@@ -7,3 +7,5 @@ Otro cambios mas a hola.txt
 hola desde develop
 
 nuevo cambio en master para sincronizar con un remoto y clon
+
+cambio realizado por un colaborador 
