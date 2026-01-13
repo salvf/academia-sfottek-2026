@@ -1,3 +1,4 @@
 un nuevo cambio en archivo desde develop
 
 otro cambio en develop de mi clon para hacer un PR
+un cambio desde master que va a tener conflicto
