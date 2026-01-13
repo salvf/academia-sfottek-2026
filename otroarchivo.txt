@@ -1,3 +1,4 @@
 una nueva linea en el otro archivo
 
 un nuevo cambio en master
+Un cambio en master para generar un conflicto >:)
