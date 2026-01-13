@@ -3,3 +3,4 @@ un nuevo cambio en archivo desde develop
 otro cambio en develop de mi clon para hacer un PR
 Un cambio para un nuevo conflicto
 un cambio desde master que va a tener conflicto
+Un cambio "fix" para integrar mediante cherry-pick
